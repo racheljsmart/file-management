@@ -1,5 +1,4 @@
-# file-management
-======
+# File-management
 Standalone scripts for automating tasks.
 
 ## ETDpdfCoverMerge.bat (Windows)
