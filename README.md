@@ -12,6 +12,6 @@ Tools needed: PDFtk Server
 
 ## remove_identifier.py
 
-## SplitPidsFile.py
+## splitPidsFile.py
 
 ## tabReplace.py
