@@ -7,3 +7,11 @@ The purpose of this batch script is to merge hundreds of ETD PDFs to their Cover
 Make sure to run this batch file in the same directory as the PDFs you want to merge together. You can choose whatever output path you want HOWEVER make sure the output file already exists or the outout will result in an error. Or you can add lines of code to the program to check for the output file and make if if it doesn't exist... If your PDF directory isn't in the same directory as pdftk then [create an environmental variable for pdftk](https://ourcodeworld.com/articles/read/240/how-to-edit-and-add-environment-variables-in-windows-for-easy-command-line-access).
 
 Tools needed: PDFtk Server
+
+## pullRecords.py
+
+## remove_identifier.py
+
+## SplitPidsFile.py
+
+## tabReplace.py
